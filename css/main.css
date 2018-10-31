@@ -1,0 +1,229 @@
+
+
+
+
+
+body{
+	font-family: Georgia ;
+	font-size: 13px; 
+	color: #222222  ;
+}
+
+.headerLogo
+{
+	height:80px;
+	display: block;
+	padding-top: 10px;
+
+}
+
+.headerLogo a{
+	display: inline-block;
+}
+
+.navbar   
+{
+	height: 40px;
+	background-color:  #3355aa;
+
+	
+}
+.navbar a
+{
+	color:  #FFFFFF;
+	display: inline-block;
+}
+
+.verticalLine
+{
+	border-left: 2px solid blue;
+   
+    padding-left: 5px;
+    padding-right: 10px;
+}
+
+.navbar .container
+{
+	font-style: italic;
+	font-weight: bold;
+	font-size: 15px;
+	color: 	#FFFFFF;
+	
+}
+
+.search{
+
+	margin-right: 10px;
+}
+
+.baner
+{
+	margin-top: 35px ;
+	margin-bottom: 45px;
+	
+
+	}
+.banerDescription{
+	font-size: 14px;
+	text-align: center;
+	font-style: italic;
+	padding-top: 15px;
+
+}
+.bannerThumbnail
+{
+	padding: 10px;
+}	
+
+.description
+{
+	margin-top: 65px;
+
+}
+
+.description h3
+{
+	font-size:16px;
+	color:#3355aa; 
+	font-weight: bold;
+	border-bottom: 5px solid #DAA520;
+	padding-bottom: 13px;
+
+}
+.operatePadding{
+	padding-top: 50px;
+}
+
+
+.media-heading
+{
+	font-size: 10px;
+} 
+.media .mediaLine
+{
+	
+  border-top:1px solid 	lightgray; 
+  padding-top: 7px;
+}
+.viewMore a
+{
+	color:#3355aa; 
+	font-style: italic; 
+}
+.sector
+{
+	background-color: #DCDCDC;
+}
+
+ .sector h1
+{
+ font-size: 28px;
+ font-weight: bold;
+ padding-top: 25px;  
+ padding-bottom: 25px;  
+ text-align: center;
+ font-family: Georgia ;
+}
+.sectorHeading{
+	font-size: 16px;
+	color: #3355aa;
+	text-align: center;
+	padding-top: 15px;
+	font-family: Georgia ;
+}
+
+
+.box{
+height: 250px;
+background-color: lightgray;
+margin: 5px 5px 5px 5px;
+
+}
+
+ .caption .work
+{
+	font-size: 16px;
+}
+
+.sectorbottom
+{
+	padding-bottom: 75px;
+}
+
+
+footer {
+    padding-top: 15px;
+    padding-bottom: 35px;
+    height: 100px;
+    width: 100%;
+    background-color: #333333;
+    color: lightgray;
+    
+}
+
+.mainFooter{
+	border-bottom: 1px solid #3d3d3d;
+	padding-bottom: 5px;
+
+}
+
+.rightFooter{
+	padding-left: 200px;
+
+}
+
+.rightFooter a
+{
+ color :lightgray;
+ font-size: 11px;
+ float:right;
+ 
+}
+
+
+.leftFooter a
+{
+ color :lightgray;
+ font-size: 14px;
+ float:left;
+ 
+}
+
+.verticalLineRight
+{
+	border-right: 1px solid white;
+   
+    margin-right: 8px;
+    padding-right: 8px;
+}
+
+.copyRight
+{
+	font-size: 11px;
+	padding-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
